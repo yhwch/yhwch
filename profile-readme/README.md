@@ -1,11 +1,10 @@
-# Hi, I'm Aleksa 👋
+# Hi, I'm Aleks 👋
 
 I'm a Python developer with a background in machine learning and data processing, looking for my first role as a developer.
 
 - 🎓 Studying AI and machine learning: applied AI, deep learning, ML theory and data processing
 - 🛠️ Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, Django, Plotly, SQL
 - 🔭 Currently looking for junior developer, data or ML roles
-- 📫 Reach me at: *your email or LinkedIn*
 
 ## Featured projects
 
